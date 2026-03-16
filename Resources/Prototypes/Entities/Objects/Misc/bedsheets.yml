@@ -348,7 +348,7 @@
 - type: entity
   id: BedsheetUSA
   parent: BedsheetBase
-  name: USA bedsheet
+  name: plaid bedsheet
   components:
   - type: Sprite
     state: sheetUSA
