@@ -129154,30 +129154,6 @@ entities:
       rot: -1.5707963267948966 rad
       pos: -5.5921907,1.0930564
       parent: 2
-  - uid: 24817
-    components:
-    - type: Transform
-      pos: 72.25902,-52.57586
-      parent: 2
-    - type: Paper
-      stampState: paper_stamp-signature
-      stampedBy:
-      - stampedColor: '#2F4F4FFF'
-        stampedName: Juniper Sheepmera
-      content: >
-        Hey there! Ya found me! :D
-
-
-        I just wanted to leave this note here to thank a bunch of people who motivated and helped me make this map! Especially large thanks to Gregg and Mono and even TJ for the love and effort and help they put into this map with me. They motivated me to keep going, helped me fill rooms, and turned this project from a 75% to a 100% with their whimsey and multitudes and boundless spirit. Love you guys!
-
-
-        I also want to thank Jenn, KC, Morgan, Kieran, April, my wife Madelyn, and all my friends and denizens of the Den! You are why i make these maps and why I do my things! While i craft the map, you all play it, make stories on it, and turn this metal coffin drifting among the stars into a place of memories, dreams, fighting, turbulence, joy, pleasure, pain, and all sorts of things. Without you it'd be just another empty map.
-
-
-        Alright, I'll let ya enjoy the plushie and the Midori! You earned it champ! :D
-
-
-        Love,
 - proto: PaperCargoBountyManifest
   entities:
   - uid: 7861
@@ -130273,21 +130249,6 @@ entities:
     - type: Transform
       pos: -52.487705,-13.532465
       parent: 2
-- proto: PlushieAzalea
-  entities:
-  - uid: 27552
-    components:
-    - type: Transform
-      pos: -15.494287,49.5314
-      parent: 2
-  - uid: 27785
-    components:
-    - type: Transform
-      pos: 72.68025,-52.03804
-      parent: 2
-    - type: Physics
-      angularDamping: 0
-      linearDamping: 0
 - proto: PlushieBee
   entities:
   - uid: 13129
@@ -130640,18 +130601,6 @@ entities:
     - type: Transform
       pos: -3.3786716,43.625813
       parent: 2
-- proto: PlushieJenn
-  entities:
-  - uid: 1734
-    components:
-    - type: Transform
-      pos: 42.448944,20.475838
-      parent: 2
-  - uid: 24186
-    components:
-    - type: Transform
-      pos: 85.87905,-2.9654267
-      parent: 2
 - proto: PlushieJester
   entities:
   - uid: 26534
@@ -130784,17 +130733,6 @@ entities:
     - type: Transform
       pos: -40.54111,-19.512156
       parent: 2
-- proto: PlushieMort
-  entities:
-  - uid: 2794
-    components:
-    - type: Transform
-      parent: 2247
-    - type: Physics
-      angularDamping: 0
-      linearDamping: 0
-      canCollide: False
-    - type: InsideEntityStorage
 - proto: PlushieMoth
   entities:
   - uid: 14347
@@ -130862,76 +130800,6 @@ entities:
       name: middle-aged brown coyote plushie
     - type: Transform
       pos: -12.929918,1.2043276
-      parent: 2
-    - type: Physics
-      angularDamping: 0
-      linearDamping: 0
-- proto: PlushieOvinia
-  entities:
-  - uid: 883
-    components:
-    - type: Transform
-      pos: -51.534325,27.4267
-      parent: 2
-  - uid: 930
-    components:
-    - type: Transform
-      pos: -46.71637,42.335167
-      parent: 2
-    - type: Physics
-      angularDamping: 0
-      linearDamping: 0
-  - uid: 1560
-    components:
-    - type: Transform
-      pos: -47.388256,41.468616
-      parent: 2
-    - type: Physics
-      angularDamping: 0
-      linearDamping: 0
-  - uid: 1937
-    components:
-    - type: Transform
-      pos: -64.5295,4.7742934
-      parent: 2
-  - uid: 4806
-    components:
-    - type: Transform
-      pos: 39.437115,-3.2892385
-      parent: 2
-  - uid: 5858
-    components:
-    - type: Transform
-      pos: 1.4272217,-53.41158
-      parent: 2
-  - uid: 8805
-    components:
-    - type: Transform
-      pos: 86.5,-13.5
-      parent: 2
-  - uid: 10661
-    components:
-    - type: MetaData
-      desc: A silly, jestful, whimsical ovinia plushie. This one seems chimeric and smilier than the average plushie.
-      name: whimsical ovinia plushie
-    - type: Transform
-      pos: -15.282438,1.5818895
-      parent: 2
-    - type: Physics
-      angularDamping: 0
-      linearDamping: 0
-  - uid: 23236
-    components:
-    - type: Transform
-      pos: -65.48719,5.62064
-      parent: 2
-  - uid: 24816
-    components:
-    - type: MetaData
-      desc: It smells like the ocean, tomato vines, and vanilla. It is worn from years of being well loved.
-      name: sheepmera plushie
-    - type: Transform
-      pos: 72.68676,-52.323223
       parent: 2
     - type: Physics
       angularDamping: 0
@@ -131100,26 +130968,6 @@ entities:
     components:
     - type: Transform
       pos: -57.586098,20.595873
-      parent: 2
-- proto: PlushieVega
-  entities:
-  - uid: 11894
-    components:
-    - type: Transform
-      pos: 86.56643,-3.3839526
-      parent: 2
-    - type: Physics
-      angularDamping: 0
-      linearDamping: 0
-  - uid: 23897
-    components:
-    - type: Transform
-      pos: -3.3461194,44.55897
-      parent: 2
-  - uid: 27079
-    components:
-    - type: Transform
-      pos: -64.43186,8.823195
       parent: 2
 - proto: PlushieVulp
   entities:

@@ -10,6 +10,7 @@
 # SPDX-FileCopyrightText: 2025 leo
 # SPDX-FileCopyrightText: 2025 sleepyyapril
 # SPDX-FileCopyrightText: 2025 therealDLondon
+# SPDX-FileCopyrightText: 2026 AetherBoi
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
@@ -133165,13 +133166,6 @@ entities:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -39.4405,-58.929237
-      parent: 2
-- proto: PlushieJenn
-  entities:
-  - uid: 19629
-    components:
-    - type: Transform
-      pos: 35.7121,37.52461
       parent: 2
 - proto: PlushieLamp
   entities:

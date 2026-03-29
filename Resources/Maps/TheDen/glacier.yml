@@ -5,6 +5,7 @@
 # SPDX-FileCopyrightText: 2025 Solaris
 # SPDX-FileCopyrightText: 2025 sleepyyapril
 # SPDX-FileCopyrightText: 2025 wallflowerghost
+# SPDX-FileCopyrightText: 2026 AetherBoi
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
@@ -96941,17 +96942,6 @@ entities:
       linearDamping: 0
       canCollide: False
     - type: InsideEntityStorage
-- proto: PlushieAzalea
-  entities:
-  - uid: 18305
-    components:
-    - type: Transform
-      parent: 18298
-    - type: Physics
-      angularDamping: 0
-      linearDamping: 0
-      canCollide: False
-    - type: InsideEntityStorage
 - proto: PlushieBee
   entities:
   - uid: 18302
@@ -97153,34 +97143,6 @@ entities:
 - proto: PlushieGriffy
   entities:
   - uid: 18320
-    components:
-    - type: Transform
-      parent: 18298
-    - type: Physics
-      angularDamping: 0
-      linearDamping: 0
-      canCollide: False
-    - type: InsideEntityStorage
-- proto: PlushieJenn
-  entities:
-  - uid: 1039
-    components:
-    - type: MetaData
-      desc: Smells like vanilla and dominance. This version of a Jenn plushie has a rather devious look on her face.
-      name: Dastardly Jenn Plushie
-    - type: Transform
-      parent: 981
-    - type: Physics
-      angularDamping: 0
-      linearDamping: 0
-      canCollide: False
-    - type: InsideEntityStorage
-  - uid: 6130
-    components:
-    - type: Transform
-      pos: -20.635645,-39.00266
-      parent: 2
-  - uid: 18300
     components:
     - type: Transform
       parent: 18298

@@ -38,9 +38,6 @@
             "name": "plushie_slips"
         },
         {
-            "name": "plushie_trystan"
-        },
-        {
             "name": "plushie_vulp"
         },
         {
@@ -451,19 +448,7 @@
             "name": "shadowkin"
         },
         {
-            "name": "plushie_grim"
-        },
-        {
             "name": "mortplush"
-        },
-        {
-            "name": "vegaplushie"
-        },
-        {
-            "name": "tabiplushie"
-        },
-        {
-            "name": "jennplush"
         }
     ]
 }

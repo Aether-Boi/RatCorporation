@@ -67195,17 +67195,6 @@ entities:
     - type: Physics
       angularDamping: 0
       linearDamping: 0
-- proto: PlushieJenn
-  entities:
-  - uid: 3831
-    components:
-    - type: Transform
-      parent: 3822
-    - type: Physics
-      angularDamping: 0
-      linearDamping: 0
-      canCollide: False
-    - type: InsideEntityStorage
 - proto: PlushieJester
   entities:
   - uid: 8875
@@ -67381,16 +67370,6 @@ entities:
     - type: Physics
       angularDamping: 0
       linearDamping: 0
-- proto: PlushieVega
-  entities:
-  - uid: 9089
-    components:
-    - type: MetaData
-      desc: Keeps a watchful eye over the AI core.
-      name: woag the watchful
-    - type: Transform
-      pos: 48.400364,-18.365555
-      parent: 2
 - proto: PlushieVulp
   entities:
   - uid: 3840

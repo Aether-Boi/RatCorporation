@@ -1,5 +1,6 @@
 # SPDX-FileCopyrightText: 2025 juniwoofs
 # SPDX-FileCopyrightText: 2025 sleepyyapril
+# SPDX-FileCopyrightText: 2026 aetherboi
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
@@ -135577,43 +135578,6 @@ entities:
     - type: Transform
       pos: 34.5,12.5
       parent: 13
-- proto: PaperCaptainsThoughts
-  entities:
-  - uid: 8643
-    components:
-    - type: Transform
-      pos: 63.963036,17.725126
-      parent: 13
-    - type: Physics
-      angularDamping: 0
-      linearDamping: 0
-  - uid: 27965
-    components:
-    - type: MetaData
-      name: a simple thank you
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: 51.318344,19.40165
-      parent: 13
-    - type: Paper
-      stampState: paper_stamp-signature
-      stampedBy:
-      - stampedColor: '#2F4F4FFF'
-        stampedName: Juniper
-      content: >-
-        Hihi! Thanks for taking the time to explore my map! I'd love to take this small hidden out of the way note to really really thank everyone who encouraged me to work towards making and completing this map!
-
-
-        Special Special thanks to Jenn, April, Gregg, Morgan, KC, Mono, Fox, and Madelyn! Y'all made sure I never gave up!
-
-
-        Thank you also to the greater SS14 Community for giving me such great content and tools to make this map with! Y'all really let a girl go wild! :]
-
-
-        Okay okay! enjoy the map and the silly plushie now!
-
-
-        With Hugs and Love,
 - proto: PaperCargoBountyManifest
   entities:
   - uid: 26646
@@ -136409,16 +136373,6 @@ entities:
     - type: Physics
       angularDamping: 0
       linearDamping: 0
-- proto: PlushieJenn
-  entities:
-  - uid: 29403
-    components:
-    - type: Transform
-      pos: 34.46325,2.5186534
-      parent: 13
-    - type: Physics
-      angularDamping: 0
-      linearDamping: 0
 - proto: PlushieLamp
   entities:
   - uid: 1974
@@ -136734,16 +136688,6 @@ entities:
     - type: Transform
       pos: 130.69923,-18.43275
       parent: 13
-- proto: PlushieVega
-  entities:
-  - uid: 29404
-    components:
-    - type: Transform
-      pos: 35.4945,2.5030284
-      parent: 13
-    - type: Physics
-      angularDamping: 0
-      linearDamping: 0
 - proto: PlushieVulp
   entities:
   - uid: 28774

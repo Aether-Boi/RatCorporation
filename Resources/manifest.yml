@@ -10,9 +10,10 @@
 # SPDX-FileCopyrightText: 2025 Falcon <falcon@zigtag.dev>
 # SPDX-FileCopyrightText: 2025 TheDen-Bot <thelargetrucksyndicate@gmail.com>
 # SPDX-FileCopyrightText: 2025 sleepyyapril <123355664+sleepyyapril@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2026 AetherBoi <DawgIdunnomyfuckinggithubemailthing@idunno.com>
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later AND MIT
 
-defaultWindowTitle: The Den
+defaultWindowTitle: Rat Corporation
 windowIconSet: /Textures/Logo/icon
 splashLogo: /Textures/Logo/logo.png

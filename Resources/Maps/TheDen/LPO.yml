@@ -1,6 +1,7 @@
 # SPDX-FileCopyrightText: 2025 Falcon
 # SPDX-FileCopyrightText: 2025 juniwoofs
 # SPDX-FileCopyrightText: 2025 sleepyyapril
+# SPDX-FileCopyrightText: 2026 aetherboi
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
@@ -10493,16 +10494,6 @@ entities:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -17.5,4.5
-      parent: 1
-- proto: PlushieCoffeeFox
-  entities:
-  - uid: 1376
-    components:
-    - type: MetaData
-      desc: Smells like a sheep, a fennec, a bird, and an eldritch horror all in one!
-      name: Juniper
-    - type: Transform
-      pos: 7.4759197,2.5618656
       parent: 1
 - proto: PlushieNuke
   entities:

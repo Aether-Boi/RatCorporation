@@ -77173,13 +77173,6 @@ entities:
     - type: Transform
       pos: -60.49614,-6.1331673
       parent: 2
-- proto: PlushieMort
-  entities:
-  - uid: 6858
-    components:
-    - type: Transform
-      pos: -10.44409,5.515444
-      parent: 2
 - proto: PlushieMothRandom
   entities:
   - uid: 10368

@@ -45,6 +45,7 @@
 # SPDX-FileCopyrightText: 2025 Mike32oz
 # SPDX-FileCopyrightText: 2025 VMSolidus
 # SPDX-FileCopyrightText: 2025 sleepyyapril
+# SPDX-FileCopyrightText: 2026 AetherBoi
 #
 # SPDX-License-Identifier: MIT AND AGPL-3.0-or-later
 
@@ -132949,13 +132950,6 @@ entities:
     components:
     - type: Transform
       pos: -8.5066185,51.492676
-      parent: 2
-- proto: PlushieTrystan
-  entities:
-  - uid: 20089
-    components:
-    - type: Transform
-      pos: -35.457195,3.4928346
       parent: 2
 - proto: PortableFlasher
   entities:

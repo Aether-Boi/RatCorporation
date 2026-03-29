@@ -133622,19 +133622,6 @@ entities:
     - type: Transform
       pos: 88.7885,0.22882116
       parent: 1
-- proto: PlushieCoffeeFox
-  entities:
-  - uid: 27903
-    components:
-    - type: MetaData
-      desc: Looking closer at this fox plushie reveals you've been bamboozled! This is a chimera (fox) plushie! You fool!!
-      name: fox plushie...?
-    - type: Transform
-      pos: 134.53352,4.6427803
-      parent: 1
-    - type: Physics
-      angularDamping: 0
-      linearDamping: 0
 - proto: PlushieHampter
   entities:
   - uid: 14380
@@ -133757,14 +133744,6 @@ entities:
     components:
     - type: Transform
       pos: 143.52193,4.4431868
-      parent: 1
-- proto: PlushieVega
-  entities:
-  - uid: 9682
-    components:
-    - type: Transform
-      rot: -1.5707963267948966 rad
-      pos: 60.90768,27.15665
       parent: 1
 - proto: PlushieVulp
   entities:

@@ -1,4 +1,5 @@
 # SPDX-FileCopyrightText: 2026 Nata F Miakova
+# SPDX-FileCopyrightText: 2026 AetherBoi
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
@@ -87833,13 +87834,6 @@ entities:
       name: Xanax the wise
     - type: Transform
       pos: 27.5,86.5
-      parent: 2
-- proto: PlushieJenn
-  entities:
-  - uid: 4110
-    components:
-    - type: Transform
-      pos: 38.50348,38.58363
       parent: 2
 - proto: PlushieMagicarp
   entities:

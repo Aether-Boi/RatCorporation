@@ -1,4 +1,5 @@
 # SPDX-FileCopyrightText: 2025 therealDLondon
+# SPDX-FileCopyrightText: 2026 AetherBoi
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
@@ -63008,17 +63009,6 @@ entities:
     - type: Transform
       pos: 43.50684,40.503124
       parent: 2
-- proto: PlushieJenn
-  entities:
-  - uid: 2618
-    components:
-    - type: MetaData
-      desc: Terribly radioactive, do NOT add this one to your collection, at least without a lead box
-      name: Radioisotope Thermoelectric Jennerator
-    - type: Transform
-      pos: 31.008766,42.08193
-      parent: 2
-    - type: RadiationSource
 - proto: PlushieLamp
   entities:
   - uid: 13111

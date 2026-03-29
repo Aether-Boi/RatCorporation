@@ -50,6 +50,7 @@
 # SPDX-FileCopyrightText: 2025 Rosycup
 # SPDX-FileCopyrightText: 2025 sleepyyapril
 # SPDX-FileCopyrightText: 2025 therealDLondon
+# SPDX-FileCopyrightText: 2026 AetherBoi
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
@@ -68424,15 +68425,6 @@ entities:
     components:
     - type: Transform
       pos: 53.38373,-8.472734
-      parent: 2
-- proto: PlushieJenn
-  entities:
-  - uid: 3973
-    components:
-    - type: MetaData
-      desc: Yet another rare collectable Jenn plush! This one seems to be holding the other plushie's paw. Keep them together!
-    - type: Transform
-      pos: 12.452278,16.522543
       parent: 2
 - proto: PlushieLizard
   entities:

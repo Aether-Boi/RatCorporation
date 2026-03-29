@@ -1,5 +1,6 @@
 # SPDX-FileCopyrightText: 2024 juniwoofs
 # SPDX-FileCopyrightText: 2025 sleepyyapril
+# SPDX-FileCopyrightText: 2026 AetherBoi
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
@@ -93682,16 +93683,6 @@ entities:
     components:
     - type: Transform
       pos: -54.513374,69.38585
-      parent: 100
-- proto: PlushieJenn
-  entities:
-  - uid: 21236
-    components:
-    - type: MetaData
-      desc: One third of the lighthouse keepers
-      name: rare collectable Jenn plush
-    - type: Transform
-      pos: -11.610707,106.51476
       parent: 100
 - proto: PlushieLizard
   entities:

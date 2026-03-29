@@ -118135,13 +118135,6 @@ entities:
     - type: Transform
       pos: 38.023293,-51.434967
       parent: 2
-- proto: PlushieVega
-  entities:
-  - uid: 5589
-    components:
-    - type: Transform
-      pos: 31.461834,-42.33157
-      parent: 2
 - proto: PortableFlasher
   entities:
   - uid: 3514

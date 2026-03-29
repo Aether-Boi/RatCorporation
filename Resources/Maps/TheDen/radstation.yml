@@ -47,6 +47,7 @@
 # SPDX-FileCopyrightText: 2025 VMSolidus <evilexecutive@gmail.com>
 # SPDX-FileCopyrightText: 2025 sleepyyapril <123355664+sleepyyapril@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 sleepyyapril <flyingkarii@gmail.com>
+# SPDX-FileCopyrightText: 2026 AetherBoi
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later AND MIT
 
@@ -114269,26 +114270,6 @@ entities:
     - type: Transform
       pos: -33.4985,36.450657
       parent: 2
-- proto: PlushieSlips
-  entities:
-  - uid: 5949
-    components:
-    - type: Transform
-      parent: 1930
-    - type: Physics
-      angularDamping: 0
-      linearDamping: 0
-      canCollide: False
-    - type: InsideEntityStorage
-  - uid: 23909
-    components:
-    - type: Transform
-      parent: 19985
-    - type: Physics
-      angularDamping: 0
-      linearDamping: 0
-      canCollide: False
-    - type: InsideEntityStorage
 - proto: PlushieSnake
   entities:
   - uid: 16341

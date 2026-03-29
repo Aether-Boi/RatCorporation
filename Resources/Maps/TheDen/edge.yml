@@ -1,6 +1,6 @@
 # SPDX-FileCopyrightText: 2024 flyingkarii
 # SPDX-FileCopyrightText: 2024 sleepyyapril
-#
+# SPDX-FileCopyrightText: 2026 Aether Boi
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 meta:
@@ -102559,16 +102559,6 @@ entities:
     components:
     - type: Transform
       pos: -16.529001,38.56327
-      parent: 2
-- proto: PlushieJenn
-  entities:
-  - uid: 15332
-    components:
-    - type: MetaData
-      desc: I'm so cooked...
-      name: Rare Collectable Jenn Plush
-    - type: Transform
-      pos: 12.592775,44.23299
       parent: 2
 - proto: PlushieMothRandom
   entities:
